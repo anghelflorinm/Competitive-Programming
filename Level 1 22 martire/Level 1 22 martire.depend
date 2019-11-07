@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553273023 source:d:\info_florin\level 1 22 martire\main.cpp
+	<fstream>
+	<bits/stdc++.h>
+

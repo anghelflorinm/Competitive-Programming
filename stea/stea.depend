@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541066247 source:d:\info_florin\stea\main.cpp
+	<iostream>
+	<math.h>
+	<winbgim.h>
+

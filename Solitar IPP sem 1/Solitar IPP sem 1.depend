@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547456284 source:d:\info_florin\solitar ipp sem 1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<cstdlib>
+	<conio.h>
+	<stdlib.h>
+	<graphics.h>
+
