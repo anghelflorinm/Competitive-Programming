@@ -1,0 +1,7 @@
+swap(x,y)
+{
+aux=x;
+x=y;
+y=aux;
+}
+
