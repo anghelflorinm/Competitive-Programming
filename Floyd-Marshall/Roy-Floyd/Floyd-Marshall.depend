@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562156529 source:d:\programare competitiva\floyd-marshall\roy-floyd\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
